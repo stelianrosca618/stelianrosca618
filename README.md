@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 ![Stelian's GitHub stats](https://github-readme-stats.vercel.app/api?username=stelianrosca618&show_icons=true&theme=radical)
 
 ## 📫 How to reach me
-- Email: stelianrosca618@example.com
+- Email: stelianrosca618@outlook.com
 - LinkedIn: [Stelian Rosca](https://www.linkedin.com/in/stelianrosca618/)
 
 Feel free to check out my repositories and projects. Let's connect and build something amazing together!
