@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 - ⚡ Fun fact: I love hiking and exploring new places.
 
 ## 🔧 Technologies & Tools
-- Programming Languages: Python, JavaScript, Java, C++
+- Programming Languages: Python, JavaScript, Java, C#, C++
 - Web Development: HTML, CSS, React, Node.js
 - Databases: MySQL, PostgreSQL, MongoDB
 - DevOps: Docker, Kubernetes, Jenkins
