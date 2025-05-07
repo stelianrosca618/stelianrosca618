@@ -23,5 +23,6 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 ## 📫 How to reach me
 - Email: stelianrosca618@outlook.com
 - LinkedIn: [Stelian Rosca](https://www.linkedin.com/in/stelianrosca618/)
+- Skyle: https://teams.live.com/l/invite/FBAyF1ujndr3wInEAE
 
 Feel free to check out my repositories and projects. Let's connect and build something amazing together!
